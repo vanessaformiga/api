@@ -1,3 +1,3 @@
 ##Api
 
-projeto criado para consumir uma api usando o fetch e mostrando imagens de gatinhos.
+projeto criado para consumir uma api usando o fetch e mostrar imagens de gatinhos. utilizando o HTML, CSS, javaScript.
